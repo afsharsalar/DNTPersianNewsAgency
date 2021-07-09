@@ -1,0 +1,9 @@
+D:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.AssemblyInfoInputs.cache
+D:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.AssemblyInfo.cs
+D:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.csproj.CoreCompileInputs.cache
+D:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\bin\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.deps.json
+D:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\bin\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.dll
+D:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\bin\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.pdb
+D:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.dll
+D:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.pdb
+D:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.csprojAssemblyReference.cache

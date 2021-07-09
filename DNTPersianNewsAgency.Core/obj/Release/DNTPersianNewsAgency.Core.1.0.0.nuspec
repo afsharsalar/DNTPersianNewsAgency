@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DNTPersianNewsAgency.Core</id>
+    <version>1.0.0</version>
+    <authors>Salar Afshar</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>RSS feed for persian news from official news agency</description>
+    <tags>RSS,IRAN,NewsAgency</tags>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="HtmlAgilityPack.NetCore" version="1.5.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\bin\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.dll" target="lib\netcoreapp3.1\DNTPersianNewsAgency.Core.dll" />
+  </files>
+</package>
