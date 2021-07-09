@@ -26,6 +26,6 @@ namespace DNTPersianNewsAgency.Core
         Sport,
 
         [Display(Name = "سایر")]
-        Other
+        All
     }
 }

@@ -21,12 +21,25 @@ namespace DNTPersianNewsAgency.Core
         [Display(Name = "مهر")]
         Mehr,
 
+        [Display(Name = "ایرنا")]
+        Irna,
+
+        [Display(Name = "ایلنا")]
+        Ilna,
+
+        [Display(Name = "آنا")]
+        Ana,
+        [Display(Name = "موج")]
+        Moj,
+
         [Display(Name = "ایسنا")]
         Isna,
 
         [Display(Name = "فرارو")]
         Fararu,
 
+        [Display(Name = "تابناک")]
+        Tabnak,
 
         [Display(Name = "تیتر 20")]
         Titr20,
