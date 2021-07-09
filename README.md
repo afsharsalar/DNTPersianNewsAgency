@@ -17,3 +17,10 @@ DNTPersianNewsAgency.Core
 [![Nuget](https://img.shields.io/nuget/v/DNTPersianNewsAgency.Core)](https://github.com/afsharsalar/DNTPersianNewsAgency)
 ```
 PM> Install-Package DNTPersianNewsAgency.Core 
+
+نحوه کار با اطلاعات
+-----------------
+
+```csharp
+var data = RssReader.Read();
+
