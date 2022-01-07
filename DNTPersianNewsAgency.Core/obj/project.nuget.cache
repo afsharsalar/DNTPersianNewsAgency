@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LzW3pzk+KnzSe9YYutEX7r2UcKmKVvQ/wkVDmnWHr5ns+/34jbjOnVhU2EqSkrvZ2T5CU+RXfyxbDHdo5sEsYw==",
+  "dgSpecHash": "29QP8E74oJ1xFy+ZPjFtt74vMLYLpWRf7xHezGlPmZxFxqGgWWqME29AMY7ExOvET86MaREMdxR89nOqs6M4QA==",
   "success": true,
   "projectFilePath": "E:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core.csproj",
   "expectedPackageFiles": [
@@ -28,10 +28,7 @@
     "C:\\Users\\WINDOWS 10\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
     "C:\\Users\\WINDOWS 10\\.nuget\\packages\\system.threading.tasks.extensions\\4.0.0\\system.threading.tasks.extensions.4.0.0.nupkg.sha512",
     "C:\\Users\\WINDOWS 10\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
-    "C:\\Users\\WINDOWS 10\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
-    "C:\\Users\\WINDOWS 10\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\WINDOWS 10\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\WINDOWS 10\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\WINDOWS 10\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,12 @@
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\bin\Release\net5.0\DNTPersianNewsAgency.Core.deps.json
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\bin\Release\net5.0\DNTPersianNewsAgency.Core.dll
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\bin\Release\net5.0\ref\DNTPersianNewsAgency.Core.dll
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\bin\Release\net5.0\DNTPersianNewsAgency.Core.pdb
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\net5.0\DNTPersianNewsAgency.Core.csproj.AssemblyReference.cache
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\net5.0\DNTPersianNewsAgency.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\net5.0\DNTPersianNewsAgency.Core.AssemblyInfoInputs.cache
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\net5.0\DNTPersianNewsAgency.Core.AssemblyInfo.cs
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\net5.0\DNTPersianNewsAgency.Core.csproj.CoreCompileInputs.cache
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\net5.0\DNTPersianNewsAgency.Core.dll
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\net5.0\ref\DNTPersianNewsAgency.Core.dll
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\net5.0\DNTPersianNewsAgency.Core.pdb

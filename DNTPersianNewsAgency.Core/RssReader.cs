@@ -4,7 +4,7 @@ using System.Linq;
 using System.Net;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-
+using System.Xml.Linq;
 using DNTPersianNewsAgency.Core.FeedReaders;
 
 namespace DNTPersianNewsAgency.Core
@@ -30,8 +30,17 @@ namespace DNTPersianNewsAgency.Core
                     ServicePointManager.Expect100Continue = true;
                     ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
                 }
-                var items = Task.Run(() => FeedReader.ReadAsync(feed.FeedUrl)).Result;
-                foreach (var item in items.Items)
+                //var items = Task.Run(() => FeedReader.ReadAsync(feed.FeedUrl)).Result;
+                var document = XDocument.Load(feed.FeedUrl);
+                var items = from element in document.Element("rss").Elements("channel").Elements("item")
+                    select new
+                    {
+                        Title = element.Element("title")?.Value,
+                        Link = element.Element("link")?.Value,
+                        Description = element.Element("description")?.Value
+                    };
+                          
+                foreach (var item in items)
                 {
                     try
                     {
@@ -40,7 +49,7 @@ namespace DNTPersianNewsAgency.Core
 
                         var summary = item.Description ?? "";
                         summary = summary.Replace("&quot;", @"""").Replace("&nbsp;", "").Replace("&zwnj;", " ").Replace("&zwnj;", " ").Replace(" &#187;", "«").Replace("&#171;", "»");
-                        var link = item.Id == null ? item.Link : item.Id;
+                        var link = item.Link;//item.Id == null ? item.Link : item.Id;
                         switch (feed.Agency)
                         {
                             case NewsAgencyType.Eghtesadonline:

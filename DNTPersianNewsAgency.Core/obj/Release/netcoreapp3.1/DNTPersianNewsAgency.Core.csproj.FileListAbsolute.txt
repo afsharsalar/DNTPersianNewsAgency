@@ -7,3 +7,13 @@ D:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNew
 D:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.dll
 D:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.pdb
 D:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.csprojAssemblyReference.cache
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\bin\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.deps.json
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\bin\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.dll
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\bin\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.pdb
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.csproj.AssemblyReference.cache
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.AssemblyInfoInputs.cache
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.AssemblyInfo.cs
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.csproj.CoreCompileInputs.cache
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.dll
+E:\Programming\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\DNTPersianNewsAgency.Core\obj\Release\netcoreapp3.1\DNTPersianNewsAgency.Core.pdb
