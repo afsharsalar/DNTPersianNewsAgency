@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core.csproj": {}
+    "E:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core.csproj": {
+    "E:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core.csproj": {
       "version": "1.0.2",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core.csproj",
+        "projectUniqueName": "E:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core.csproj",
         "projectName": "DNTPersianNewsAgency.Core",
-        "projectPath": "D:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core.csproj",
+        "projectPath": "E:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core.csproj",
         "packagesPath": "C:\\Users\\WINDOWS 10\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\obj\\",
+        "outputPath": "E:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\WINDOWS 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -58,12 +55,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

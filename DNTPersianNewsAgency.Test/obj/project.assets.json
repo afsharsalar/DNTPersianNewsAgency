@@ -1851,7 +1851,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -3752,7 +3752,7 @@
       ]
     },
     "System.Net.Http/4.3.0": {
-      "sha512": "Z1UfSF6dlpCdZdxh6LeoGlYH+q6ptG/iiIWgUUeKhE3DbQACmZkU7Sz2nOX0qdHjz72MOdYRbkSJ5Qwl6sZgvg==",
+      "sha512": "sYg+FtILtRQuYWSIAuNOELwVuVsxVyJGWQyOnlAzhV4xvhyFnON1bAzYYC+jjRW8JREM45R0R5Dgi8MTC5sEwA==",
       "type": "package",
       "path": "system.net.http/4.3.0",
       "files": [
@@ -5766,21 +5766,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\WINDOWS 10\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\WINDOWS 10\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Test\\DNTPersianNewsAgency.Test.csproj",
+      "projectUniqueName": "E:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Test\\DNTPersianNewsAgency.Test.csproj",
       "projectName": "DNTPersianNewsAgency.Test",
-      "projectPath": "D:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Test\\DNTPersianNewsAgency.Test.csproj",
+      "projectPath": "E:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Test\\DNTPersianNewsAgency.Test.csproj",
       "packagesPath": "C:\\Users\\WINDOWS 10\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Test\\obj\\",
+      "outputPath": "E:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Test\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\WINDOWS 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -5796,8 +5792,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core.csproj": {
-              "projectPath": "D:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core.csproj"
+            "E:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core.csproj": {
+              "projectPath": "E:\\Programming\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core\\DNTPersianNewsAgency.Core.csproj"
             }
           }
         }
@@ -5839,12 +5835,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
